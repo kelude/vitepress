@@ -1,0 +1,11 @@
+node_modules
+
+.DS_Store
+.idea
+
+.temp
+dist
+cache
+temp
+
+*.log
